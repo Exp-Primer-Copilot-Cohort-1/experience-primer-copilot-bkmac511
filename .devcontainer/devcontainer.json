@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "przestrzen kodowa",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
